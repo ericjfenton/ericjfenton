@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ericjfenton.
+- 👀 I’m interested in mobile and web applications.
+- 🌱 I’m currently learning at Codecademy.
